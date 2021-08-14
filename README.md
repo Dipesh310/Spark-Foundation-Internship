@@ -1,1 +1,1 @@
-I have created a basic payment gateway integration. Used HTML, CSS, BOOTSTRAP and JS. 
+This is the task 3 i.e. Payment Gateway integration. I have used JS, CSS, HTML, Bootstrap to create a website.
